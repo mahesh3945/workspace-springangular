@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\mkmah\workspace-springangular\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+860899231.index
+577420400.index
+567328805.index
+1159583496.index
+564354722.index
+3132447967.index
