@@ -39,6 +39,7 @@ public class StudentControllerTest
 		Iterable<StudentUser> actual = studentcontroller.getAllUsers();		
 		long actualSize=actual.spliterator().getExactSizeIfKnown();
 		assertEquals(0, actualSize);
+		System.out.println("hello testing");
 	}
 	@Test
 	public void studentGetIdTest()
